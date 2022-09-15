@@ -1,4 +1,4 @@
-# UNIPD-Emojify-SentimentAnalysisOfText
+# Emojify - Sentiment Analysis of Text - Machine Learning Project
 
 The aim of this work was to find the most related sentiment of a written sequence and map it into an emoji (this is a problem of # text classification). 
 In this case there are only five emoji: heart, baseball, smile, disappointed, fork-andknife. 
